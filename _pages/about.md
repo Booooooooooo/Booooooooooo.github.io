@@ -18,7 +18,7 @@ Publications
 
    **Yanbo Wang**, Shaohui Lin, Yanyun Qu, Haiyan Wu, Zhizhong Zhang, Yuan Xie, Angela Yao
    
-   IJCAI21 | [paper](https://arxiv.org/abs/2105.11683) | [code](https://github.com/Booooooooooo/CSD)
+   IJCAI21 \| [paper](https://arxiv.org/abs/2105.11683) \| [code](https://github.com/Booooooooooo/CSD)
    
 Recent Projects
 ======
