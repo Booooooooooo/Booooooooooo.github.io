@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Yanbo Wang"
 description              : &description "personal description"
