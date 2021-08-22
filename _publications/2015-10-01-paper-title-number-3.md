@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Towards Compact Single Image Super-Resolution via Contrastive Self-distillation"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/CSD
+excerpt: 'In this paper, we proposed a novel contrastive self-distillation (CSD) framework to simultaneously compress and accelerate various off-the-shelf SR models.'
+date: 2021-05-25
+venue: 'IJCAI'
+paperurl: 'https://arxiv.org/abs/2105.11683'
+citation: 'Wang Y, Lin S, Qu Y, et al. (2021). &quot;Towards Compact Single Image Super-Resolution via Contrastive Self-distillation.&quot; <i>IJCAI</i>.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+In this paper, we proposed a novel contrastive self-distillation (CSD) framework to simultaneously compress and accelerate various off-the-shelf SR models.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://arxiv.org/pdf/2105.11683.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Wang Y, Lin S, Qu Y, et al. (2021). &quot;Towards Compact Single Image Super-Resolution via Contrastive Self-distillation.&quot; <i>IJCAI</i>.
